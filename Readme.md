@@ -1,0 +1,1 @@
+The website is about the laundry web page which included differend section and basic html element and tags there are image,texts,forms and button to submit form.
